@@ -1,0 +1,45 @@
+.app-bar{
+    background-color: white;
+    height: 60px;
+    padding: 10px 40px 0 40px;
+    position: fixed;
+    z-index: 99;
+    width: 95vw;
+}
+
+.app-bar-menu-icon-group{
+    display: inline-block;
+    margin-top:10px;
+}
+
+.app-bar-avatar-search-group{
+    float: right;
+}
+
+
+.app-bar-search-field{
+    margin-right: 50px;
+    padding: 8px 8px;
+    background-color: #F3F3F3;
+    border: none;
+    width: 200px;
+
+}
+
+.app-bar-search-field-icon{
+    margin-left: -70px;
+    margin-right:40px;
+}
+
+.app-bar-user-account{
+    
+}
+
+.inline-style{
+    display: inline-block;
+}
+
+.user-text{
+    font-weight: 400;
+    font-size:14px;
+}
